@@ -1,0 +1,22 @@
+{
+  "wheel_id": 532,
+  "structure": "umbrella",
+  "slug": "qldretainingandfencing-153",
+  "project": "retaining-wall-builders-brisbane-timeline-12ebdb03f924c51a1f920",
+  "parent_t1_ref": "qldretainingandfencing-008",
+  "node_role": "buffer",
+  "money_target": "qldretainingandfencing.com.au",
+  "primary_kw": "retaining wall builders brisbane timeline",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-builders-brisbane-timeline-12ebdb03f924c51a1f920/",
+  "tier": "T2",
+  "writeback_nonce": "61105fea5a3c603e",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/qldretainingandfencing-008/",
+      "anchor": "Retaining Wall Builders Brisbane: Practical Quote Checks",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
